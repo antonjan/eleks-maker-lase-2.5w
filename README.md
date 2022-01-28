@@ -5,5 +5,5 @@ This Repository will have all my configeration details for the Eleks Maker lase 
 Using business card thickness type of paper and then adding see thru packing tape on both sides of the paper you can make reasonably good Solder mask stensels<br>
 ## Exsamples
 ![laser](Solder_mask_1.jpeg?raw=true "laser")<br>
-![laser](Solder_mask_1.jpeg?raw=true "laser")<br>
+
 
