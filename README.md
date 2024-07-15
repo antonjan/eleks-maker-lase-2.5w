@@ -1,5 +1,6 @@
 # eleks-maker-laser-2.5w
 This Repository will have all my configeration details for the Eleks Maker lase 2.5w<br>
+link to Pick and Place mashien https://github.com/antonjan/pick-and-place-802A
 ![laser](laser_2.5w.png?raw=true "laser")<br>
 ## Creating solder mask Stensels for Pick and Place
 Using business card thickness type of paper and then adding see thru packing tape on both sides of the paper you can make reasonably good Solder mask stensels<br>
